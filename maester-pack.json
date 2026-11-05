@@ -4,7 +4,7 @@
   "Guid": "7f5f4a9b-2232-4e0e-806a-7446220498af",
   "Name": "NISG 2026 evidence pack",
   "Description": "Preview of an Austrian NISG 2026 evidence pack for Microsoft 365. Automated control checks are in development.",
-  "Version": "0.0.1",
+  "Version": "0.0.2",
   "Publisher": "metaalbi",
   "License": "MIT",
   "Homepage": "https://github.com/metaalbi/maester-pack-nisg",

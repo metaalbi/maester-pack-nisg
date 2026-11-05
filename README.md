@@ -1,6 +1,6 @@
 # NISG 2026 evidence pack for Maester
 
-**Preview 0.0.1: code registration only.** This release contains no automated security control checks. Its one informational result explicitly says so. Do not use it to assess NISG 2026 compliance.
+**Preview 0.0.2: prepared for code registration.** This release contains no automated security control checks. Its one informational result explicitly says so. Do not use it to assess NISG 2026 compliance.
 
 This project will provide free Microsoft 365 configuration checks and evidence mapped to Austria's NISG 2026, NISV 2026 § 2, and the annex of Commission Implementing Regulation (EU) 2024/2690. A passing configuration check will be evidence for a specific setting, not a finding of legal compliance. Organizational, contractual, and operational measures will require separate review.
 
